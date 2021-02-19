@@ -63,3 +63,7 @@ Mroueh, Youssef; Nguyen, Truyen V.
 Dvinskikh, Darina; Tiapkin, Daniil  
 * Entropy Partial Transport with Tree Metrics: Theory and Practice (AISTATS'21)  
 Le, Tam; Nguyen, Truyen
+
+## Information Geometric Perspective of Generalization in Deep Neural Networks 
+* A geometric interpretation of stochastic gradient descent using diffusion metrics (Entropy'20)   
+Fioresi Rita, Chaudhari Pratik, S. Saito 
