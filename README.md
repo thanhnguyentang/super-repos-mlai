@@ -67,3 +67,11 @@ Le, Tam; Nguyen, Truyen
 ## Information Geometric Perspective of Generalization in Deep Neural Networks 
 * A geometric interpretation of stochastic gradient descent using diffusion metrics (Entropy'20)   
 Fioresi Rita, Chaudhari Pratik, S. Saito 
+
+## Generalization of overparameterized models   
+Classicial statistical learning theory bounds the generalization by capacity-based measure such as VC dimension and Rademacher complexity. These methods often rely on standard ideas of uniform convergence over a model class with small capacity-based measure (e.g., small VC dimension). However, in modern machine learning, overparameterized model class render such capacity-based bounds vacuous while surprisingly possesses a good generalization. In particular, a overparameterized model can overfit a training data (zero training error) but still generalizes well to the unseen data. This phenomenon urges a new understanding of generalization beyond uniform convergence for overparameterized model and overfitting problem. 
+
+* Begnin overfitting in linear regression (NAS'21)  
+Bartlett et al.  
+* Does data interpolation contradict statistical optimality? (AISTATS'19)   
+Belkin et al. 
